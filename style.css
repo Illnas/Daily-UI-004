@@ -1,0 +1,88 @@
+
+
+/*    Image found while searching net for "calculator"
+  
+       
+*/
+
+
+main{
+    background-color: rgb(230, 229, 221);
+    height: 100vh;
+    /* url: https://miro.medium.com/max/11914/0*ZQJRryxWCxq9H5I3   */
+}
+
+section {
+    background-color: #fff;
+    
+}
+
+.form-group {
+    padding: 0;
+    margin: 20px;
+}
+
+.form-control {
+    padding: 20px;
+    background-color: rgb(80, 133, 84);
+}
+
+section {
+    border: 1px solid rgb(116, 114, 114);
+    border-radius: 8px;
+}
+
+
+
+.card{
+    background-color: rgb(116, 114, 114);
+}
+
+.col {
+    padding: 0;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+    font-weight: 700;
+    color: #fff;
+}
+
+.dark {
+    background-color: rgb(71, 71, 71);
+}
+
+.orange{
+    background-color: rgb(196, 87, 25);
+}
+
+.grey{
+   background-color: rgb(170, 170, 170);  
+}
+
+.row {
+    
+    padding: 0 20px;
+}
+
+ .custom {
+    padding: 0;
+}
+
+.col-3 .row .custom {
+    height: 100%;
+}
+
+.col-3 .row .custom input{
+    height: 76px;
+}
+
+
+
+
+
+.custom-red {
+    color: rgb(255, 9, 9);
+}
